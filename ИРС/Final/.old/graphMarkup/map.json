@@ -1,0 +1,98 @@
+{
+    "graph": {
+        "1": [
+            2
+        ],
+        "2": [
+            3
+        ],
+        "3": [
+            4
+        ],
+        "4": [
+            6,
+            5,
+            7
+        ],
+        "7": [
+            8
+        ],
+        "8": [
+            7
+        ]
+    },
+    "notations": {
+        "1": {
+            "id": 1,
+            "pos": [
+                346,
+                109
+            ],
+            "isCrossroad": false,
+            "isAruco": false
+        },
+        "2": {
+            "id": 2,
+            "pos": [
+                401,
+                116
+            ],
+            "isCrossroad": false,
+            "isAruco": false
+        },
+        "3": {
+            "id": 3,
+            "pos": [
+                452,
+                118
+            ],
+            "isCrossroad": false,
+            "isAruco": false
+        },
+        "4": {
+            "id": 4,
+            "pos": [
+                518,
+                119
+            ],
+            "isCrossroad": true,
+            "isAruco": false
+        },
+        "5": {
+            "id": 5,
+            "pos": [
+                511,
+                151
+            ],
+            "isCrossroad": false,
+            "isAruco": false
+        },
+        "6": {
+            "id": 6,
+            "pos": [
+                506,
+                95
+            ],
+            "isCrossroad": false,
+            "isAruco": false
+        },
+        "7": {
+            "id": 7,
+            "pos": [
+                563,
+                118
+            ],
+            "isCrossroad": false,
+            "isAruco": false
+        },
+        "8": {
+            "id": 8,
+            "pos": [
+                645,
+                201
+            ],
+            "isCrossroad": false,
+            "isAruco": true
+        }
+    }
+}
